@@ -1,0 +1,27 @@
+Numero,Nombre,Partidos_jugados,Partidos_titular,Goles,Asistencias,Tarjetas_amarillas,Edad,Altura,Valor_Mercado,ELO,Temporadas,Partidos_totales,Goles_totales,Asistencias_totales,Posicion
+1,Álvaro Moreno,21,21,12.0,0.0,0.0,19,188.0,31000,40,2,21,12.0,0.0,Porteros
+13,Diego Díaz,7,7,3.0,0.0,0.0,18,,9000,36,1,7,3.0,0.0,Porteros
+25,D. Rubio,2,2,1.0,0.0,0.0,17,,4000,31,2,2,1.0,0.0,Porteros
+11,Daniel Muñoz,18,10,2.0,0.0,5.0,18,165.0,41000,42,1,18,2.0,5.0,Defensas
+2,David Arza,26,20,1.0,0.0,6.0,19,181.0,43000,43,2,26,1.0,6.0,Defensas
+4,Adrián Almeida,21,14,2.0,0.0,4.0,19,,25000,41,2,23,2.0,4.0,Defensas
+24,R. Hueso,22,16,1.0,0.0,3.0,18,,24000,41,1,22,1.0,3.0,Defensas
+14,Diego Pérez,20,15,1.0,0.0,5.0,19,,24000,41,2,23,1.0,5.0,Defensas
+5,Pablo Pan,17,15,1.0,0.0,6.0,19,,23000,39,1,17,1.0,6.0,Defensas
+17,Izan Muñoz,24,21,0.0,0.0,4.0,18,,12000,36,1,24,0.0,4.0,Defensas
+27,O. Torrellas,23,16,1.0,0.0,4.0,18,,17000,39,1,23,1.0,4.0,Defensas
+3,D. Pérez,11,4,0.0,0.0,0.0,18,193.0,10000,37,1,11,0.0,0.0,Defensas
+23,Jesús Barrios,30,25,14.0,0.0,2.0,19,,46000,43,1,30,14.0,2.0,Centrocampistas
+8,Jorge Castillo,25,20,6.0,0.0,1.0,19,180.0,47000,44,2,28,6.0,2.0,Centrocampistas
+20,Gabriel Castrelo,15,11,8.0,0.0,1.0,18,,23000,44,1,15,8.0,1.0,Centrocampistas
+16,T. Seidu,22,16,1.0,0.0,3.0,17,,18000,37,1,22,1.0,3.0,Centrocampistas
+6,Javier Díaz,22,17,0.0,0.0,3.0,19,,33000,42,3,72,2.0,8.0,Centrocampistas
+22,David Fernández,24,14,0.0,0.0,6.0,17,,15000,36,1,24,0.0,6.0,Centrocampistas
+15,G. Gross,21,9,3.0,0.0,0.0,17,,10000,36,1,21,3.0,0.0,Centrocampistas
+26,A. Tamargo,13,7,0.0,0.0,1.0,18,,13000,39,1,13,0.0,1.0,Centrocampistas
+30,Rubén Gómez,6,0,2.0,0.0,0.0,15,,2000,31,1,6,2.0,0.0,Centrocampistas
+29,Nico Fernández,1,0,0.0,0.0,0.0,18,,3000,26,1,1,0.0,0.0,Centrocampistas
+9,S. Esteban,27,23,19.0,0.0,4.0,18,,36000,43,2,28,20.0,4.0,Delanteros
+10,Jorge Rajado,19,10,7.0,0.0,2.0,19,175.0,21000,40,1,19,7.0,2.0,Delanteros
+18,Óscar Bazaga,21,6,5.0,0.0,0.0,17,,18000,39,1,21,5.0,0.0,Delanteros
+7,Jairo Fernández,21,11,5.0,0.0,1.0,19,178.0,13000,38,1,21,5.0,1.0,Delanteros

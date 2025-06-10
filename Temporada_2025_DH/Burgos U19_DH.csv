@@ -1,0 +1,30 @@
+Numero,Nombre,Partidos_jugados,Partidos_titular,Goles,Asistencias,Tarjetas_amarillas,Edad,Altura,Valor_Mercado,ELO,Temporadas,Partidos_totales,Goles_totales,Asistencias_totales,Posicion
+13,R. Noya,13,13,23.0,0.0,1.0,19.0,185.0,11000,39,1,13,23.0,1.0,Porteros
+1,D. González,18,17,21.0,0.0,0.0,19.0,186.0,3000,31,1,18,21.0,0.0,Porteros
+1,Y. Esguevillas,0,0,0.0,0.0,0.0,17.0,,1000,29,1,0,0.0,0.0,Porteros
+13,R. Mijangos,0,0,0.0,0.0,0.0,,,1000,28,1,0,0.0,0.0,Porteros
+4,F. Sánchez,28,26,3.0,0.0,5.0,19.0,,26000,44,1,28,3.0,6.0,Defensas
+3,D. Hernaiz,15,12,2.0,0.0,3.0,18.0,,22000,40,1,15,2.0,3.0,Defensas
+5,A. Maiga,29,27,1.0,0.0,4.0,18.0,,13000,42,1,29,1.0,4.0,Defensas
+14,G. Diaz,7,5,0.0,0.0,3.0,18.0,,1000,32,1,7,0.0,3.0,Defensas
+18,I. Expósito,21,15,2.0,0.0,2.0,19.0,,12000,41,1,21,2.0,2.0,Defensas
+2,M. Hernando,26,21,0.0,0.0,4.0,19.0,,4000,33,1,26,0.0,4.0,Defensas
+18,S. García,2,0,0.0,0.0,0.0,18.0,,1000,32,1,2,0.0,0.0,Defensas
+12,B. Madruga,4,3,0.0,0.0,1.0,,,1000,37,1,4,0.0,1.0,Defensas
+12,P. Sanz,21,13,0.0,0.0,4.0,19.0,,2000,34,1,21,0.0,4.0,Defensas
+6,H. Sedano,21,17,6.0,0.0,9.0,19.0,,9000,39,1,21,6.0,9.0,Centrocampistas
+17,Marc De Pedro,27,22,5.0,0.0,6.0,18.0,,10000,41,1,27,5.0,6.0,Centrocampistas
+8,I. Hernando,26,24,2.0,0.0,4.0,19.0,,6000,37,1,26,2.0,4.0,Centrocampistas
+18,D. Villa,0,0,0.0,0.0,0.0,,,1000,32,1,0,0.0,0.0,Centrocampistas
+16,H. Castañeda,11,3,0.0,0.0,3.0,19.0,,10000,41,1,11,0.0,3.0,Centrocampistas
+14,De la Cámara,3,0,0.0,0.0,0.0,16.0,,2000,38,1,3,0.0,0.0,Centrocampistas
+15,H. Lopez,27,17,1.0,0.0,4.0,19.0,,2000,29,1,27,1.0,4.0,Centrocampistas
+16,A. Cámara,12,4,0.0,0.0,0.0,,,1000,26,1,12,0.0,0.0,Centrocampistas
+7,N. De La Carrera,26,20,11.0,0.0,6.0,19.0,,7000,38,1,26,11.0,7.0,Delanteros
+16,Pablo Marcos,27,23,1.0,0.0,8.0,19.0,,8000,38,1,27,1.0,8.0,Delanteros
+9,M. Gonzalez,28,19,5.0,0.0,2.0,,,1000,31,1,28,5.0,2.0,Delanteros
+10,S. Rubio,9,2,0.0,0.0,1.0,,,1000,32,1,9,0.0,1.0,Delanteros
+14,Hame Sussoho,24,8,2.0,0.0,2.0,19.0,,3000,35,1,24,2.0,2.0,Delanteros
+15,D. San Miguel,26,10,2.0,0.0,1.0,19.0,,4000,35,1,26,2.0,1.0,Delanteros
+7,A. Matías,15,8,0.0,0.0,0.0,18.0,,1000,29,1,15,0.0,0.0,Delanteros
+11,P. Madruga,4,1,0.0,0.0,0.0,17.0,,1000,27,1,4,0.0,0.0,Delanteros

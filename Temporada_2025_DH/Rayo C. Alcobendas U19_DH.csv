@@ -1,0 +1,30 @@
+Numero,Nombre,Partidos_jugados,Partidos_titular,Goles,Asistencias,Tarjetas_amarillas,Edad,Altura,Valor_Mercado,ELO,Temporadas,Partidos_totales,Goles_totales,Asistencias_totales,Posicion
+18,I. Oliva,3,0,0.0,0.0,1.0,,,1000,26,1,3,0.0,1.0,Porteros
+15,H. Miguel,4,0,0.0,0.0,0.0,,,1000,26,1,4,0.0,0.0,Porteros
+1,D. Tejero,20,20,32.0,0.0,1.0,18.0,,1000,30,2,20,32.0,1.0,Porteros
+13,D. Vizan,10,10,20.0,0.0,1.0,18.0,,2000,35,1,10,20.0,1.0,Porteros
+3,D. Perez,25,23,0.0,0.0,3.0,18.0,,2000,32,1,25,0.0,3.0,Defensas
+5,C. Alonso,5,5,0.0,0.0,1.0,18.0,183.0,1000,30,1,5,0.0,1.0,Defensas
+2,G. Quesada,25,21,4.0,0.0,2.0,17.0,173.0,1000,31,1,25,4.0,2.0,Defensas
+16,Rubén Olea,24,19,1.0,0.0,1.0,18.0,,4000,34,1,24,1.0,1.0,Defensas
+2,Almeida,20,13,1.0,0.0,0.0,18.0,,1000,29,1,20,1.0,0.0,Defensas
+4,Sergio Canos,26,24,1.0,0.0,6.0,19.0,,8000,39,2,51,1.0,9.0,Centrocampistas
+8,D. Quevedo,25,23,1.0,0.0,5.0,19.0,,4000,38,1,25,1.0,5.0,Centrocampistas
+6,Yahya Bourjila,29,29,1.0,0.0,9.0,19.0,,7000,39,2,57,3.0,12.0,Centrocampistas
+7,H. Entero,28,27,3.0,0.0,3.0,17.0,,1000,31,1,28,3.0,3.0,Centrocampistas
+14,A. Mizuno,14,6,2.0,0.0,2.0,19.0,,3000,37,1,14,2.0,2.0,Centrocampistas
+15,S. Galan,10,3,0.0,0.0,2.0,19.0,,2000,36,1,10,0.0,2.0,Centrocampistas
+17,A. Hernandez,4,2,0.0,0.0,0.0,,,1000,30,1,4,0.0,0.0,Centrocampistas
+18,M. Garrote,13,12,1.0,0.0,2.0,19.0,,1000,27,1,13,1.0,2.0,Centrocampistas
+14,A. Iriondo,27,8,2.0,0.0,0.0,18.0,,1000,28,1,27,2.0,0.0,Centrocampistas
+17,C. Ligua,9,4,0.0,0.0,1.0,19.0,,1000,27,1,9,0.0,1.0,Centrocampistas
+9,E. De Bronze,28,21,9.0,0.0,9.0,,,1000,33,1,28,9.0,9.0,Delanteros
+10,Jaime García,29,21,7.0,0.0,5.0,19.0,,5000,36,2,58,12.0,8.0,Delanteros
+11,Chypryan Perez,22,15,0.0,0.0,3.0,19.0,,3000,37,1,22,0.0,3.0,Delanteros
+17,H. Duran,5,0,0.0,0.0,0.0,19.0,,3000,38,1,5,0.0,0.0,Delanteros
+17,Marc Mujal,7,5,0.0,0.0,0.0,18.0,179.0,1000,31,1,7,0.0,0.0,Delanteros
+19,J. Calles,16,4,2.0,0.0,0.0,19.0,,1000,31,1,16,2.0,0.0,Delanteros
+11,L. Nielfa,14,10,4.0,0.0,1.0,,,1000,27,1,14,4.0,1.0,Delanteros
+15,D. López,16,4,1.0,0.0,4.0,18.0,,1000,31,1,16,1.0,4.0,Delanteros
+9,E. Asangono,0,0,0.0,0.0,0.0,,,1000,32,0,0,0.0,0.0,Delanteros
+16,I. Velez,6,1,0.0,0.0,1.0,19.0,,1000,26,1,6,0.0,1.0,Delanteros

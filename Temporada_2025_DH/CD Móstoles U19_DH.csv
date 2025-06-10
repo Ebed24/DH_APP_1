@@ -1,0 +1,39 @@
+Numero,Nombre,Partidos_jugados,Partidos_titular,Goles,Asistencias,Tarjetas_amarillas,Edad,Altura,Valor_Mercado,ELO,Temporadas,Partidos_totales,Goles_totales,Asistencias_totales,Posicion
+95,S. Bustos,3,2,0.0,0.0,0.0,,,1000,27,1,3,0.0,0.0,Porteros
+10,H. Carrasco,2,0,0.0,0.0,0.0,,,1000,26,1,2,0.0,0.0,Porteros
+4,R. Araujo,2,0,0.0,0.0,1.0,,,1000,26,1,2,0.0,1.0,Porteros
+12,D. Ibeas,1,0,0.0,0.0,0.0,,,1000,26,1,1,0.0,0.0,Porteros
+9,C. Cortez,1,1,0.0,0.0,0.0,,,1000,26,1,1,0.0,0.0,Porteros
+13,H. Vara,18,18,34.0,0.0,0.0,18.0,178.0,5000,39,1,18,34.0,0.0,Porteros
+13,A. Brea,1,1,2.0,0.0,0.0,19.0,,5000,37,1,1,2.0,0.0,Porteros
+1,M. Suero,6,6,17.0,0.0,1.0,19.0,,1000,33,1,6,17.0,1.0,Porteros
+13,F. Navarrete,0,0,0.0,0.0,0.0,,,1000,26,1,0,0.0,0.0,Porteros
+42,A. Olivares,5,5,16.0,0.0,1.0,18.0,,1000,26,1,5,16.0,1.0,Porteros
+34,G. Fernández,0,0,0.0,0.0,0.0,,,1000,26,1,0,0.0,0.0,Porteros
+3,R. Plata,28,28,3.0,0.0,6.0,19.0,,4000,39,1,28,3.0,7.0,Defensas
+12,M. Miranda,27,26,0.0,0.0,7.0,19.0,185.0,2000,36,1,27,0.0,8.0,Defensas
+19,Nicolas Feiguin,19,19,0.0,0.0,6.0,19.0,187.0,2000,35,1,19,0.0,6.0,Defensas
+17,D. Montero,13,8,0.0,0.0,2.0,19.0,,2000,37,1,13,0.0,2.0,Defensas
+2,N. Ebe,24,13,0.0,0.0,1.0,18.0,,2000,35,1,24,0.0,1.0,Defensas
+14,A. Foj,25,13,0.0,0.0,2.0,19.0,,1000,29,1,25,0.0,2.0,Defensas
+18,D. Martinez,6,0,0.0,0.0,1.0,,,1000,26,1,6,0.0,1.0,Defensas
+75,O. Rodriguez,3,3,0.0,0.0,0.0,19.0,,1000,26,1,3,0.0,0.0,Defensas
+15,I. Casanova,3,1,0.0,0.0,0.0,,,1000,26,1,3,0.0,0.0,Defensas
+4,D. Caro,4,0,0.0,0.0,0.0,,,1000,26,1,4,0.0,0.0,Defensas
+14,H. Aranda,21,21,1.0,0.0,3.0,19.0,193.0,6000,40,1,21,1.0,3.0,Centrocampistas
+21,B. Echeverria,26,23,7.0,0.0,4.0,18.0,175.0,3000,32,1,26,7.0,4.0,Centrocampistas
+5,A. Nastasescu,22,21,0.0,0.0,2.0,19.0,,1000,33,1,22,0.0,2.0,Centrocampistas
+16,A. Macias,23,18,7.0,0.0,0.0,19.0,,1000,30,1,23,7.0,0.0,Centrocampistas
+24,F. Cordero,28,19,4.0,0.0,7.0,19.0,,1000,29,1,28,4.0,7.0,Centrocampistas
+4,M. Cachinero,3,2,0.0,0.0,1.0,19.0,,1000,35,1,3,0.0,1.0,Centrocampistas
+8,S. Del Rio,11,6,0.0,0.0,0.0,17.0,,1000,30,1,11,0.0,0.0,Centrocampistas
+22,D. Trompeta,24,13,0.0,0.0,6.0,18.0,,1000,27,1,24,0.0,6.0,Centrocampistas
+6,R. Nava,18,7,0.0,0.0,2.0,19.0,,1000,27,1,18,0.0,2.0,Centrocampistas
+4,I. Duran,7,6,0.0,0.0,1.0,19.0,,1000,33,1,7,0.0,1.0,Centrocampistas
+20,P. Muñoz,4,0,0.0,0.0,0.0,19.0,,1000,30,1,4,0.0,0.0,Centrocampistas
+28,R. Iniesta,4,1,0.0,0.0,0.0,17.0,,1000,26,1,4,0.0,0.0,Centrocampistas
+11,R. Poteras,13,1,0.0,0.0,2.0,19.0,,1000,26,1,13,0.0,2.0,Centrocampistas
+7,M. Vaquero,30,25,7.0,0.0,3.0,19.0,178.0,2000,33,1,30,7.0,4.0,Delanteros
+31,B. Del Olmo,26,16,6.0,0.0,3.0,18.0,,2000,34,1,26,6.0,3.0,Delanteros
+10,Nelson Vazquez,19,7,0.0,0.0,0.0,19.0,,1000,30,1,19,0.0,0.0,Delanteros
+9,A. Iñigo,0,0,0.0,0.0,0.0,,,1000,26,1,0,0.0,0.0,Delanteros

@@ -1,0 +1,28 @@
+Numero,Nombre,Partidos_jugados,Partidos_titular,Goles,Asistencias,Tarjetas_amarillas,Edad,Altura,Valor_Mercado,ELO,Temporadas,Partidos_totales,Goles_totales,Asistencias_totales,Posicion
+13,A. Mendy,26,26,35.0,0.0,3.0,18.0,187.0,5000,36,1,26,35.0,3.0,Porteros
+1,A. Viguri,4,4,7.0,0.0,0.0,19.0,,5000,37,1,4,7.0,0.0,Porteros
+25,A. García,0,0,0.0,0.0,0.0,,,1000,26,1,0,0.0,0.0,Porteros
+15,D. Gonzalez,28,28,1.0,0.0,1.0,19.0,,17000,45,1,28,1.0,1.0,Defensas
+2,Krishna,6,2,0.0,0.0,0.0,19.0,,7000,39,1,6,0.0,0.0,Defensas
+5,Pedro Soria,16,13,1.0,0.0,2.0,19.0,,9000,42,2,17,1.0,2.0,Defensas
+12,A. Ortega,26,25,1.0,0.0,8.0,18.0,,6000,38,1,26,1.0,8.0,Defensas
+21,J. García,24,24,0.0,0.0,6.0,19.0,,3000,34,1,24,0.0,8.0,Defensas
+14,Antonio Fernández,3,1,0.0,0.0,0.0,19.0,,4000,37,2,4,0.0,0.0,Defensas
+16,M. Beltran,16,2,0.0,0.0,1.0,18.0,,3000,35,1,16,0.0,1.0,Defensas
+3,A. Kocas,1,1,0.0,0.0,0.0,,,1000,26,1,1,0.0,0.0,Defensas
+7,E. Osorio,30,30,8.0,0.0,3.0,19.0,,20000,44,1,30,8.0,3.0,Centrocampistas
+8,Jorge Trinidad,27,23,2.0,0.0,1.0,19.0,170.0,16000,45,2,31,2.0,1.0,Centrocampistas
+18,Mario Galán,23,8,1.0,0.0,1.0,18.0,,10000,41,1,23,1.0,1.0,Centrocampistas
+19,E. Benjumea,22,11,4.0,0.0,1.0,19.0,,5000,38,1,22,4.0,1.0,Centrocampistas
+6,Tuki,26,17,0.0,0.0,6.0,19.0,,5000,38,1,26,0.0,6.0,Centrocampistas
+4,A. Gordillo,20,13,0.0,0.0,3.0,18.0,176.0,9000,40,1,20,0.0,3.0,Centrocampistas
+22,A. Casado,24,22,3.0,0.0,13.0,19.0,,5000,36,1,24,3.0,15.0,Centrocampistas
+20,C. Francisco,12,11,0.0,0.0,2.0,,,1000,33,1,12,0.0,2.0,Centrocampistas
+11,Ramón Cornejo,30,16,0.0,0.0,2.0,19.0,,3000,36,1,30,0.0,2.0,Centrocampistas
+26,J. Muñoz,8,0,0.0,0.0,0.0,18.0,,1000,26,1,8,0.0,0.0,Centrocampistas
+14,A. Marena,12,1,0.0,0.0,1.0,,,1000,26,1,12,0.0,1.0,Centrocampistas
+20,H. Pineda,12,2,0.0,0.0,0.0,19.0,,7000,41,1,12,0.0,0.0,Delanteros
+9,L. Romero,27,26,6.0,0.0,3.0,17.0,,13000,43,1,27,6.0,3.0,Delanteros
+10,D. Antúnez,29,21,5.0,0.0,0.0,18.0,,9000,41,1,29,5.0,0.0,Delanteros
+17,Sergio Gervilla,8,1,1.0,0.0,1.0,19.0,,2000,32,1,8,1.0,1.0,Delanteros
+24,M. Galapero,4,2,0.0,0.0,0.0,18.0,,2000,32,1,4,0.0,0.0,Delanteros

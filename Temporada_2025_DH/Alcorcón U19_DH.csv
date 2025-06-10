@@ -1,0 +1,40 @@
+Numero,Nombre,Partidos_jugados,Partidos_titular,Goles,Asistencias,Tarjetas_amarillas,Edad,Altura,Valor_Mercado,ELO,Temporadas,Partidos_totales,Goles_totales,Asistencias_totales,Posicion
+36,K. Luna,1,0,0.0,0.0,0.0,,,1000,26,1,1,0.0,0.0,Porteros
+1,Álvaro Varez,28,28,67.0,0.0,1.0,18.0,,3000,37,2,28,67.0,1.0,Porteros
+31,A. Garcia,2,2,1.0,0.0,0.0,19.0,,1000,32,1,2,1.0,0.0,Porteros
+38,D. Plaza,0,0,0.0,0.0,0.0,,,1000,26,1,0,0.0,0.0,Porteros
+13,E. Cevallos,0,0,0.0,0.0,0.0,19.0,,1000,33,1,0,0.0,0.0,Porteros
+35,D. Castaño,7,7,0.0,0.0,2.0,,,1000,31,1,7,0.0,2.0,Defensas
+5,A. Lopez,23,22,1.0,0.0,5.0,19.0,,3000,39,1,23,1.0,5.0,Defensas
+3,J. Guerediaga,23,22,2.0,0.0,7.0,19.0,,3000,35,1,23,2.0,7.0,Defensas
+19,G. Diaz,18,10,2.0,0.0,2.0,19.0,,3000,37,1,18,2.0,2.0,Defensas
+34,A. David,15,7,0.0,0.0,1.0,,,1000,35,1,15,0.0,1.0,Defensas
+2,A. Benitez,25,25,0.0,0.0,6.0,19.0,,3000,37,1,25,0.0,6.0,Defensas
+4,I. Montero,24,18,0.0,0.0,4.0,19.0,,3000,39,2,38,2.0,5.0,Defensas
+27,A. Serrano,15,13,0.0,0.0,6.0,17.0,,2000,35,1,15,0.0,6.0,Defensas
+15,Jose Torres,26,17,0.0,0.0,5.0,19.0,,1000,33,1,26,0.0,5.0,Defensas
+12,H. Fernández,3,0,0.0,0.0,1.0,19.0,,2000,36,1,3,0.0,1.0,Defensas
+28,S. Mc,12,12,0.0,0.0,2.0,17.0,,1000,28,1,12,0.0,2.0,Defensas
+20,L. Pinar,5,5,0.0,0.0,1.0,19.0,,3000,36,1,5,0.0,1.0,Defensas
+32,D. Garcia,0,0,0.0,0.0,0.0,,,1000,26,1,0,0.0,0.0,Defensas
+23,B. Eid,2,2,0.0,0.0,0.0,,,1000,26,1,2,0.0,0.0,Defensas
+7,A. Perez,22,17,0.0,0.0,3.0,19.0,,2000,36,1,22,0.0,3.0,Centrocampistas
+6,Adrián Pascual,23,15,1.0,0.0,8.0,18.0,,2000,36,1,23,1.0,8.0,Centrocampistas
+11,Álex Martín,10,10,1.0,0.0,2.0,19.0,178.0,3000,33,1,10,1.0,2.0,Centrocampistas
+20,S. Salem,6,5,0.0,0.0,1.0,19.0,,1000,28,1,6,0.0,1.0,Centrocampistas
+20,G. Rawinad,13,1,2.0,0.0,2.0,19.0,,2000,33,2,39,6.0,11.0,Centrocampistas
+8,Pedro Samso,7,3,0.0,0.0,1.0,19.0,174.0,2000,36,1,7,0.0,1.0,Centrocampistas
+12,S. Marjani,4,4,0.0,0.0,0.0,19.0,,1000,33,1,4,0.0,0.0,Centrocampistas
+18,M. Martinez,8,4,0.0,0.0,1.0,19.0,,1000,26,1,8,0.0,1.0,Centrocampistas
+30,J. Torija,8,4,1.0,0.0,1.0,19.0,,1000,26,1,8,1.0,1.0,Centrocampistas
+23,T. Mohammed,4,4,0.0,0.0,0.0,19.0,,1000,26,1,4,0.0,0.0,Centrocampistas
+18,T. Rainelli,1,0,0.0,0.0,0.0,,,1000,26,1,1,0.0,0.0,Centrocampistas
+20,A. Kobayashi,3,1,0.0,0.0,0.0,,,1000,26,1,3,0.0,0.0,Centrocampistas
+10,Nico,1,1,0.0,0.0,0.0,18.0,178.0,6000,37,3,38,2.0,1.0,Delanteros
+14,V. Pascual Del Río,27,20,5.0,0.0,1.0,19.0,,3000,38,1,27,5.0,1.0,Delanteros
+9,A. Martin,27,20,6.0,0.0,1.0,19.0,,3000,38,1,27,6.0,1.0,Delanteros
+33,D. Martinez,19,8,4.0,0.0,2.0,18.0,,1000,33,1,19,4.0,2.0,Delanteros
+15,Raúl González,19,10,0.0,0.0,1.0,18.0,,2000,34,2,30,0.0,2.0,Delanteros
+17,M. Peñarando,23,9,1.0,0.0,3.0,18.0,183.0,1000,28,1,23,1.0,3.0,Delanteros
+38,D. Martin,0,0,0.0,0.0,0.0,,,1000,26,1,0,0.0,0.0,Delanteros
+29,J. Martinez,13,4,0.0,0.0,2.0,18.0,,1000,31,2,15,0.0,3.0,Delanteros

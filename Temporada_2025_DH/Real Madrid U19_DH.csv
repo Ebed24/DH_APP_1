@@ -1,0 +1,46 @@
+Numero,Nombre,Partidos_jugados,Partidos_titular,Goles,Asistencias,Tarjetas_amarillas,Edad,Altura,Valor_Mercado,ELO,Temporadas,Partidos_totales,Goles_totales,Asistencias_totales,Posicion
+1,Á. González,24,24,12.0,0.0,2.0,18,,41000,40,2,34,16.0,2.0,Porteros
+31,I. Voloshyn,0,0,0.0,0.0,0.0,18,202.0,9000,37,1,0,0.0,0.0,Porteros
+31,Javier Navarro,4,4,1.0,0.0,0.0,18,,11000,34,2,4,1.0,0.0,Porteros
+31,A. Gómez,0,0,0.0,0.0,0.0,17,,1000,26,1,0,0.0,0.0,Porteros
+13,D. Arroyo,2,2,2.0,0.0,0.0,19,,5000,32,2,2,2.0,0.0,Porteros
+14,Mario Rivas,1,1,0.0,0.0,0.0,18,188.0,88000,35,2,3,0.0,1.0,Defensas
+3,Diego Aguado,22,21,4.0,0.0,8.0,18,180.0,54000,39,2,40,4.0,10.0,Defensas
+2,Jesús Fortea,19,17,3.0,0.0,3.0,18,179.0,105000,48,3,47,4.0,5.0,Defensas
+21,V. Valdepeñas,13,12,2.0,0.0,1.0,18,187.0,54000,44,1,13,2.0,1.0,Defensas
+23,L. Fati,14,13,0.0,0.0,2.0,19,180.0,16000,40,1,14,0.0,2.0,Defensas
+15,Melvin Ukpeigbe,8,7,0.0,0.0,1.0,18,176.0,26000,39,1,8,0.0,1.0,Defensas
+17,Óscar Mesa,22,13,0.0,0.0,3.0,18,178.0,39000,43,3,25,1.0,3.0,Defensas
+29,Á. Lezcano,12,10,1.0,0.0,2.0,17,,5000,34,1,12,1.0,2.0,Defensas
+26,F. Seco,4,1,0.0,0.0,0.0,17,,10000,32,2,8,0.0,0.0,Defensas
+29,Ariel Nkoghe,3,2,1.0,0.0,0.0,18,184.0,8000,33,2,6,1.0,2.0,Defensas
+20,Liberto,25,16,1.0,0.0,4.0,18,181.0,5000,31,1,25,1.0,4.0,Defensas
+12,Emanuel,1,0,0.0,0.0,0.0,17,,10000,36,1,1,0.0,0.0,Defensas
+22,Roi Torres,20,8,2.0,0.0,2.0,19,,12000,36,2,22,2.0,2.0,Defensas
+23,Miguel Perales,13,7,0.0,0.0,1.0,18,,8000,36,2,14,0.0,1.0,Defensas
+26,J. Pleguezuelos,1,1,0.0,0.0,0.0,18,,4000,33,1,1,0.0,0.0,Defensas
+26,L. Lemaitre,1,0,0.0,0.0,0.0,16,,1000,27,1,1,0.0,0.0,Defensas
+32,C. Lardin,1,0,0.0,0.0,0.0,17,,1000,26,1,1,0.0,0.0,Defensas
+26,G. Municio,0,0,0.0,0.0,0.0,16,,1000,27,1,0,0.0,0.0,Defensas
+8,Roberto Martín,26,25,5.0,0.0,5.0,18,177.0,29000,40,3,38,6.0,7.0,Centrocampistas
+10,Pol Durán,15,14,3.0,0.0,0.0,18,176.0,38000,41,3,43,7.0,2.0,Centrocampistas
+33,T. Pitarch,14,13,2.0,0.0,0.0,17,,5000,32,1,14,2.0,0.0,Centrocampistas
+29,Beto,4,1,0.0,0.0,0.0,18,,6000,30,1,4,0.0,0.0,Centrocampistas
+5,Izan Regueira,27,22,2.0,0.0,2.0,19,,23000,39,3,28,2.0,3.0,Centrocampistas
+6,Jorge Cestero,20,15,0.0,0.0,6.0,19,,16000,38,2,25,0.0,6.0,Centrocampistas
+30,I. Gascón,8,3,0.0,0.0,0.0,18,,3000,31,1,8,0.0,0.0,Centrocampistas
+20,Erik Vázquez,4,2,1.0,0.0,0.0,19,,9000,36,1,4,1.0,0.0,Centrocampistas
+28,Carlos Diez,8,6,1.0,0.0,2.0,18,,9000,31,2,10,1.0,2.0,Centrocampistas
+28,R. Lopez,1,0,0.0,0.0,0.0,17,,1000,26,1,1,0.0,0.0,Centrocampistas
+28,M. Viega,1,0,0.0,0.0,0.0,18,,3000,29,2,2,0.0,0.0,Centrocampistas
+27,M. Company,2,0,1.0,0.0,0.0,16,,1000,26,1,2,1.0,0.0,Centrocampistas
+7,Daniel Yañez,17,14,2.0,0.0,2.0,18,177.0,56000,41,3,42,7.0,5.0,Delanteros
+9,Jaime Barroso,21,17,16.0,0.0,4.0,17,184.0,24000,37,2,34,19.0,6.0,Delanteros
+19,Pol Rivera,26,14,9.0,0.0,5.0,18,,14000,37,2,26,9.0,5.0,Delanteros
+11,Aimar Santiago,27,19,9.0,0.0,0.0,18,,24000,40,1,27,9.0,0.0,Delanteros
+27,José Reyes,2,0,0.0,0.0,0.0,17,,8000,34,1,2,0.0,0.0,Delanteros
+27,A. Pérez,6,4,1.0,0.0,0.0,17,176.0,2000,29,1,6,1.0,0.0,Delanteros
+24,C. Ortiz,4,0,1.0,0.0,0.0,19,,7000,39,1,4,1.0,0.0,Delanteros
+18,Pablo Montero,15,2,1.0,0.0,0.0,18,172.0,11000,37,1,15,1.0,0.0,Delanteros
+26,Alex Mora,2,0,0.0,0.0,0.0,17,,1000,26,1,2,0.0,0.0,Delanteros
+28,Enzo Alves,3,0,0.0,0.0,0.0,15,175.0,1000,26,1,3,0.0,0.0,Delanteros

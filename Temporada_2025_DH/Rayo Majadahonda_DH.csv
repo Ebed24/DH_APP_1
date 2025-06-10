@@ -1,0 +1,41 @@
+Numero,Nombre,Partidos_jugados,Partidos_titular,Goles,Asistencias,Tarjetas_amarillas,Edad,Altura,Valor_Mercado,ELO,Temporadas,Partidos_totales,Goles_totales,Asistencias_totales,Posicion
+1,Samuel Rubio,10,10,8.0,0.0,0.0,19.0,,4000,36,1,10,8.0,0.0,Porteros
+13,Nacho Utrero,19,19,25.0,0.0,0.0,19.0,,5000,38,1,19,25.0,0.0,Porteros
+33,J. Carrasco,0,0,0.0,0.0,0.0,,,1000,28,1,0,0.0,0.0,Porteros
+33,M. Fernandez,0,0,0.0,0.0,0.0,,,1000,27,1,0,0.0,0.0,Porteros
+1,S. Granados,1,1,5.0,0.0,0.0,18.0,,5000,35,1,1,5.0,0.0,Porteros
+33,W. Geraldo,0,0,0.0,0.0,0.0,17.0,,1000,26,1,0,0.0,0.0,Porteros
+4,M. Cuesta,29,29,3.0,0.0,3.0,19.0,,12000,43,1,29,3.0,3.0,Defensas
+20,A. Pardo,22,22,2.0,0.0,8.0,19.0,,6000,39,1,22,2.0,8.0,Defensas
+3,A. Diatta,29,28,1.0,0.0,3.0,19.0,,7000,39,1,29,1.0,3.0,Defensas
+16,Daniel Cupido,2,1,0.0,0.0,0.0,19.0,,7000,39,1,2,0.0,0.0,Defensas
+5,Buje,13,11,0.0,0.0,2.0,19.0,,7000,40,1,13,0.0,2.0,Defensas
+19,Diego Arcos,14,14,0.0,0.0,2.0,19.0,,5000,36,1,14,0.0,2.0,Defensas
+14,C. Sall,10,8,8.0,0.0,2.0,,,1000,29,1,10,8.0,3.0,Defensas
+12,M. De Vega,22,15,0.0,0.0,1.0,19.0,,3000,35,1,22,0.0,1.0,Defensas
+21,Victor Clavo,20,4,0.0,0.0,4.0,19.0,,3000,36,1,20,0.0,4.0,Defensas
+6,J. Alvarez,12,4,0.0,0.0,1.0,19.0,,2000,34,1,12,0.0,1.0,Defensas
+26,A. Iglesia,1,0,0.0,0.0,0.0,,,1000,27,1,1,0.0,0.0,Defensas
+14,J. Nogales,3,0,0.0,0.0,0.0,18.0,,2000,35,1,3,0.0,0.0,Defensas
+32,A. Rissone,1,0,0.0,0.0,0.0,,,1000,26,1,1,0.0,0.0,Defensas
+15,Pablo Pascual,5,5,0.0,0.0,1.0,19.0,,15000,37,2,33,0.0,5.0,Centrocampistas
+10,Casca,29,22,6.0,0.0,3.0,19.0,179.0,8000,37,2,30,6.0,3.0,Centrocampistas
+22,I. Ramos,27,22,7.0,0.0,6.0,19.0,,3000,35,1,27,7.0,6.0,Centrocampistas
+9,M. Talavera,23,18,2.0,0.0,4.0,19.0,181.0,7000,36,1,23,2.0,4.0,Centrocampistas
+7,G. Gazapo,22,12,0.0,0.0,4.0,19.0,,4000,38,2,30,0.0,4.0,Centrocampistas
+16,P. Bomwinsum,11,11,1.0,0.0,7.0,,,1000,30,1,11,1.0,7.0,Centrocampistas
+24,V. Garcia,24,13,1.0,0.0,2.0,19.0,,3000,36,1,24,1.0,2.0,Centrocampistas
+18,Rubén Municio,17,11,0.0,0.0,1.0,19.0,,3000,35,1,17,0.0,1.0,Centrocampistas
+29,I. Castillo,0,0,0.0,0.0,0.0,,,1000,28,1,0,0.0,0.0,Centrocampistas
+27,H. Antequera,4,0,0.0,0.0,0.0,17.0,,1000,29,1,4,0.0,0.0,Centrocampistas
+29,U. Sabroso,9,2,0.0,0.0,0.0,,,1000,32,1,9,0.0,0.0,Centrocampistas
+31,A. Aceituno,0,0,0.0,0.0,0.0,,,1000,26,1,0,0.0,0.0,Centrocampistas
+29,L. Espinoza,0,0,0.0,0.0,0.0,,,1000,28,1,0,0.0,0.0,Centrocampistas
+8,R. Diaz,7,7,0.0,0.0,2.0,18.0,,1000,28,1,7,0.0,2.0,Centrocampistas
+19,L. Arbó,2,0,0.0,0.0,0.0,19.0,,1000,26,1,2,0.0,0.0,Centrocampistas
+28,I. Garcia,3,0,0.0,0.0,1.0,18.0,,1000,26,1,3,0.0,2.0,Centrocampistas
+2,D. Rodriguez,30,29,0.0,0.0,1.0,19.0,,6000,38,2,35,0.0,1.0,Delanteros
+27,S. Eddoghmi,1,0,0.0,0.0,0.0,18.0,,1000,29,1,1,0.0,0.0,Delanteros
+11,Raul Jusdado,23,6,0.0,0.0,2.0,19.0,,2000,33,1,23,0.0,2.0,Delanteros
+23,D. Diaz,23,6,1.0,0.0,4.0,19.0,,2000,32,1,23,1.0,4.0,Delanteros
+30,R. Kaci,0,0,0.0,0.0,0.0,,,1000,26,1,0,0.0,0.0,Delanteros

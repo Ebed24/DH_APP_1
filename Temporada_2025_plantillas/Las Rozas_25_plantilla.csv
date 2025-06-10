@@ -1,0 +1,27 @@
+Número,Nombre,Posición,Partidos_Jugados,Partidos_Titular,Goles,Asistencias,Tarjetas_Amarillas,Edad,Altura_cm,Valor_Mercado,Rating,Temporada,Equipo
+6,David Gómez,Defensas,22,21,0.0,0.0,2.0,31,-,66K,51,1,Las Rozas
+4,L. Enrique,Defensas,32,28,0.0,0.0,6.0,28,191,56K,47,2,Las Rozas
+2,Alberto Moreno,Defensas,29,24,2.0,0.0,7.0,22,-,55K,46,1,Las Rozas
+17,L. Meseguer,Defensas,27,20,3.0,0.0,11.0,25,177,88K,49,1,Las Rozas
+21,Javi Bernal,Defensas,25,20,1.0,1.0,9.0,30,182,41K,46,1,Las Rozas
+23,Bray,Defensas,17,11,0.0,0.0,5.0,25,178,13K,35,1,Las Rozas
+24,A. Espinola,Defensas,10,7,1.0,0.0,2.0,20,-,10K,35,1,Las Rozas
+29,M. Azar,Defensas,4,0,0.0,0.0,1.0,-,-,1K,26,1,Las Rozas
+10,Quivira,Centrocampistas,31,30,8.0,2.0,10.0,25,177,55K,47,2,Las Rozas
+15,Borja Pascual,Centrocampistas,30,27,2.0,0.0,8.0,29,173,70K,50,1,Las Rozas
+11,A. Maes,Centrocampistas,24,18,0.0,0.0,6.0,33,174,106K,51,1,Las Rozas
+16,R. Sánchez,Centrocampistas,26,11,0.0,0.0,2.0,23,185,43K,45,1,Las Rozas
+22,K. Diouf,Centrocampistas,24,11,1.0,0.0,7.0,21,-,32K,44,2,Las Rozas
+26,O. El Harti,Centrocampistas,1,0,0.0,0.0,0.0,22,-,19K,43,2,Las Rozas
+14,Juanito,Centrocampistas,32,15,2.0,0.0,4.0,23,-,26K,42,2,Las Rozas
+20,Varo,Centrocampistas,21,7,0.0,0.0,4.0,21,-,47K,44,3,Las Rozas
+8,Álvaro Escolano,Centrocampistas,19,12,0.0,0.0,9.0,23,181,23K,40,3,Las Rozas
+3,Carlos,Centrocampistas,13,8,0.0,0.0,3.0,25,-,32K,41,4,Las Rozas
+5,V. Velasco,Centrocampistas,12,2,1.0,0.0,1.0,30,-,11K,37,1,Las Rozas
+19,Joselu,Delanteros,25,24,12.0,1.0,5.0,22,184,61K,46,1,Las Rozas
+12,D. Flores,Delanteros,18,14,8.0,0.0,0.0,28,194,47K,43,2,Las Rozas
+27,I. Garcia,Delanteros,1,0,0.0,0.0,0.0,20,178,19K,41,1,Las Rozas
+7,J. Losada,Delanteros,24,16,0.0,1.0,11.0,25,190,24K,42,1,Las Rozas
+18,Adri Caba,Delanteros,2,0,0.0,0.0,0.0,-,-,13K,46,1,Las Rozas
+29,L. Simon,Delanteros,10,1,2.0,0.0,1.0,19,-,6K,35,1,Las Rozas
+9,S. Lagreca,Delanteros,25,13,2.0,0.0,2.0,24,-,14K,39,1,Las Rozas

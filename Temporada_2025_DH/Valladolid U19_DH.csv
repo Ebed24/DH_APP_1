@@ -1,0 +1,38 @@
+Numero,Nombre,Partidos_jugados,Partidos_titular,Goles,Asistencias,Tarjetas_amarillas,Edad,Altura,Valor_Mercado,ELO,Temporadas,Partidos_totales,Goles_totales,Asistencias_totales,Posicion
+1,G. Castillo,20,19,32.0,0.0,1.0,19.0,180.0,7000,36,3,41,68.0,1.0,Porteros
+13,S. Fernández,10,10,13.0,0.0,2.0,18.0,176.0,6000,36,3,27,34.0,5.0,Porteros
+13,Hugo Calvo,1,1,1.0,0.0,0.0,17.0,,1000,30,1,1,1.0,0.0,Porteros
+13,A. Cantera,0,0,0.0,0.0,0.0,16.0,,1000,27,1,0,0.0,0.0,Porteros
+4,A. Juma,2,2,0.0,0.0,2.0,19.0,195.0,136000,40,1,2,0.0,2.0,Defensas
+3,Diego Arco,10,10,0.0,0.0,0.0,18.0,176.0,20000,39,4,51,1.0,4.0,Defensas
+4,J. Aranda,23,22,2.0,0.0,4.0,19.0,,15000,40,2,44,2.0,11.0,Defensas
+5,Galde,25,22,1.0,0.0,3.0,17.0,181.0,11000,39,2,42,1.0,3.0,Defensas
+2,Miguel Flores,21,16,0.0,0.0,3.0,19.0,,6000,36,3,57,0.0,6.0,Defensas
+3,Miguel Platero,17,16,1.0,0.0,6.0,19.0,,7000,37,3,35,3.0,8.0,Defensas
+4,D. Rodriguez,3,1,0.0,0.0,1.0,17.0,,4000,35,1,3,0.0,1.0,Defensas
+14,Sergio Esteban,12,7,0.0,0.0,0.0,17.0,,4000,36,2,13,0.0,0.0,Defensas
+3,I. Diaz,1,1,0.0,0.0,0.0,17.0,,1000,28,1,1,0.0,0.0,Defensas
+16,Gonza Cebrián,3,0,0.0,0.0,0.0,18.0,,2000,31,1,3,0.0,0.0,Defensas
+2,A. Garcia,1,1,0.0,0.0,0.0,17.0,,1000,26,1,1,0.0,0.0,Defensas
+14,I. Diaz,2,0,0.0,0.0,0.0,,,1000,26,1,2,0.0,0.0,Defensas
+8,Rulo,18,17,3.0,0.0,5.0,18.0,177.0,18000,41,2,19,3.0,5.0,Centrocampistas
+7,Adrián Pascu,20,17,4.0,0.0,1.0,18.0,163.0,15000,41,2,47,11.0,6.0,Centrocampistas
+6,I. Alani,10,10,1.0,0.0,2.0,18.0,175.0,4000,33,1,10,1.0,3.0,Centrocampistas
+6,Juan Murcia,23,21,0.0,0.0,1.0,18.0,178.0,8000,35,1,23,0.0,1.0,Centrocampistas
+14,Vicen Lerma,0,0,0.0,0.0,0.0,17.0,,3000,34,1,0,0.0,0.0,Centrocampistas
+15,A. Cordero,21,12,3.0,0.0,4.0,18.0,,4000,36,1,21,3.0,4.0,Centrocampistas
+18,Thomas Grand,5,1,0.0,0.0,0.0,18.0,,2000,29,1,5,0.0,0.0,Centrocampistas
+15,A. Zapatero,2,0,0.0,0.0,0.0,16.0,,1000,31,1,2,0.0,0.0,Centrocampistas
+17,I. González,19,8,2.0,0.0,0.0,17.0,,5000,35,2,20,2.0,0.0,Centrocampistas
+6,Diego Ortega,18,7,0.0,0.0,3.0,18.0,,3000,34,1,18,0.0,3.0,Centrocampistas
+15,T. Lugano,17,4,2.0,0.0,1.0,18.0,,2000,29,2,26,4.0,1.0,Centrocampistas
+16,M. Villafafila,21,14,13.0,0.0,3.0,19.0,185.0,21000,43,2,24,14.0,3.0,Delanteros
+10,Y. San Miguel,25,19,5.0,0.0,0.0,19.0,170.0,9000,35,2,46,6.0,2.0,Delanteros
+7,César Porras,16,9,3.0,0.0,0.0,18.0,,9000,40,2,37,8.0,1.0,Delanteros
+11,Hugo Calvo,24,18,3.0,0.0,4.0,18.0,171.0,7000,37,2,25,3.0,4.0,Delanteros
+3,F. Vaquero,22,15,0.0,0.0,2.0,19.0,,8000,37,4,45,1.0,3.0,Delanteros
+12,N. Sylla,4,1,0.0,0.0,0.0,18.0,,1000,29,1,4,0.0,0.0,Delanteros
+7,A. Fernández,24,10,0.0,0.0,1.0,18.0,,5000,36,2,37,0.0,1.0,Delanteros
+9,Mario Domínguez,3,2,0.0,0.0,0.0,16.0,,1000,30,1,3,0.0,0.0,Delanteros
+18,Olandia,24,11,3.0,0.0,3.0,17.0,,4000,35,2,25,3.0,3.0,Delanteros
+9,Juan Bonilla,7,5,2.0,0.0,0.0,19.0,184.0,1000,27,1,7,2.0,0.0,Delanteros

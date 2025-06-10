@@ -1,0 +1,29 @@
+Número,Nombre,Posición,Partidos_Jugados,Partidos_Titular,Goles,Asistencias,Tarjetas_Amarillas,Edad,Altura_cm,Valor_Mercado,Rating,Temporada,Equipo
+23,Samu,Defensas,7,7,1.0,0.0,3.0,20,182,143K,47,1,Alcorcón B
+12,Ugaitz Martínez,Defensas,14,10,0.0,0.0,4.0,21,181,102K,49,1,Alcorcón B
+4,Héctor Criado,Defensas,25,22,2.0,0.0,5.0,20,-,45K,44,2,Alcorcón B
+15,Víctor Pastor,Defensas,29,22,1.0,0.0,4.0,19,186,12K,42,1,Alcorcón B
+3,Bryan Osorio,Defensas,20,16,0.0,0.0,9.0,20,-,33K,42,2,Alcorcón B
+2,Marco Hernández,Defensas,14,11,1.0,0.0,4.0,21,-,15K,37,1,Alcorcón B
+5,A. Al-Hussain,Defensas,18,17,0.0,0.0,2.0,21,-,30K,38,1,Alcorcón B
+18,Viti,Defensas,15,0,0.0,0.0,0.0,20,-,10K,40,2,Alcorcón B
+33,L. Pinar,Defensas,0,0,0.0,0.0,0.0,19,-,3K,36,1,Alcorcón B
+26,C. Sánchez,Defensas,5,0,0.0,0.0,1.0,-,-,1K,32,1,Alcorcón B
+10,Arman,Centrocampistas,33,31,3.0,0.0,1.0,21,172,56K,43,1,Alcorcón B
+19,Emi,Centrocampistas,30,27,2.0,0.0,2.0,20,-,16K,46,1,Alcorcón B
+6,Capi,Centrocampistas,21,18,2.0,0.0,4.0,22,-,50K,47,1,Alcorcón B
+8,Edu Llorente,Centrocampistas,11,11,1.0,0.0,2.0,21,-,87K,46,2,Alcorcón B
+8,Jaime Amaro,Centrocampistas,17,7,2.0,0.0,2.0,20,166,68K,46,2,Alcorcón B
+16,N. Cornelie,Centrocampistas,6,6,0.0,0.0,3.0,22,183,37K,40,1,Alcorcón B
+14,Íñigo García,Centrocampistas,18,9,0.0,0.0,7.0,20,-,50K,43,2,Alcorcón B
+32,A. Perez,Centrocampistas,0,0,0.0,0.0,0.0,19,-,2K,36,1,Alcorcón B
+11,Danilo,Centrocampistas,14,10,1.0,0.0,5.0,20,170,10K,37,1,Alcorcón B
+22,R. Expósito,Centrocampistas,27,15,1.0,0.0,6.0,20,-,11K,36,1,Alcorcón B
+28,Álex Martín,Centrocampistas,12,0,0.0,0.0,3.0,19,178,3K,33,1,Alcorcón B
+32,T. Mohammed,Centrocampistas,7,5,1.0,0.0,2.0,19,-,1K,26,1,Alcorcón B
+7,Andrés García,Delanteros,34,34,21.0,0.0,3.0,22,176,63K,42,1,Alcorcón B
+20,J. Assi,Delanteros,4,0,0.0,0.0,0.0,20,185,371K,49,1,Alcorcón B
+30,Nico,Delanteros,29,28,5.0,0.0,4.0,18,178,6K,37,1,Alcorcón B
+9,Y. Lhery,Delanteros,6,5,1.0,0.0,3.0,22,176,78K,41,1,Alcorcón B
+21,M. Carrim,Delanteros,30,24,0.0,0.0,3.0,23,180,9K,31,2,Alcorcón B
+17,F. Ferreres,Delanteros,31,5,11.0,0.0,0.0,-,-,3K,37,1,Alcorcón B
